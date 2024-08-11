@@ -1,0 +1,7 @@
+.mainCategorycard{
+    width: min(30%, 150px) !important;
+}
+
+.cateTxt{
+    font-size: 12px;
+}

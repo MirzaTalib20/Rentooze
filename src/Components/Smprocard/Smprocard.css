@@ -1,0 +1,26 @@
+.mainsmProcard{
+    width: 86%;
+    cursor: pointer;
+}
+
+.smproductcardImg{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.mainsmProductcardName{
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.mainsmProductcardCategory{
+    font-size: 11px;
+    line-height: 12px;
+}
+
+.mainsmProductcardPrice{
+    font-size: 14px;
+}
+.mainsmProductcardPrice span{
+    font-size: 12px;
+}

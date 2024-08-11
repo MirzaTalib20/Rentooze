@@ -1,0 +1,18 @@
+.mainCradgroup{
+    width: 100%;
+}
+
+.lgCardHolder{
+    width: 67%;
+}
+
+.smCardHolder{
+    width: 37%;
+    height: 100%;
+}
+
+@media screen and (min-width: 1200px) {
+    .mainCradgroup{
+        padding: 10px;
+    }
+}
